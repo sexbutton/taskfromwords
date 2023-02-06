@@ -1,0 +1,5 @@
+host = "nodus.caseguru.ru"
+port = "5432"
+db_name = "testtask"
+user = "trainee_user"
+password = "trainee_pass"
